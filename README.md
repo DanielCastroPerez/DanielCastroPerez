@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQzNmkzaXpiY3J2bmx5cGFsMmhqMzFmM2ViYnd6N2F5cnJicXc5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="50"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQzNmkzaXpiY3J2bmx5cGFsMmhqMzFmM2ViYnd6N2F5cnJicXc5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="150"/>
 </div>
 
 <h2 align="center">¡Hola! Soy Daniel. Bienvenid@ a mi Github Profiles👋</h2>
