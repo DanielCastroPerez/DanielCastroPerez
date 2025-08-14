@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQzNmkzaXpiY3J2bmx5cGFsMmhqMzFmM2ViYnd6N2F5cnJicXc5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="150"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQzNmkzaXpiY3J2bmx5cGFsMmhqMzFmM2ViYnd6N2F5cnJicXc5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
 </div>
 
 <h2 align="center">¡Hola! Soy Daniel. Bienvenid@ a mi Github Profiles👋</h2>
@@ -45,13 +45,19 @@
 
 ### ✨ Proyectos destacados
 
-- 📱 [App de enseñanza Flutter](https://github.com/DanielCastroPerez/Aplicacion-de-lo-aprendido-en-flutter.)
+- 📱 [Mi primeta App en Flutter](https://github.com/DanielCastroPerez/Primera_App_Flutter)
 
-### 🚧 Proyectos en proceso
+- 🌐 [API widgets](https://github.com/DanielCastroPerez/API_Learning_Flutter)
 
-- 🔄 Mejorar y reestructurar la **App de enseñanza Flutter** aplicando los principios de **Clean Architecture**.
+- 🌐 [API Biblioteca](https://github.com/DanielCastroPerez/API_BIBLIOTECA)
+
+### 🚧 Proyecto en proceso
+
+- 🔄 Mejorar y reestructurar  **Mi primeta App en Flutter** aplicando los principios de **Clean Architecture**.
 - ➕ Agregar nuevas funcionalidades como navegación avanzada 🧭, manejo de estado 📊 y temas personalizados 🎨.
 - ⚡ Optimizar el rendimiento y la organización del código para facilitar su escalabilidad 📈 y mantenimiento 🛠️.
+
+- 📱 [APP LEARNING FLUTTER](https://github.com/DanielCastroPerez/APP_LEARNING_FLUTTER)
 
 ### 💼 Futuros proyectos
 
