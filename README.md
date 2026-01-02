@@ -2,18 +2,18 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQzNmkzaXpiY3J2bmx5cGFsMmhqMzFmM2ViYnd6N2F5cnJicXc5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
 </div>
 
-<h2 align="center">¡Hola! Soy Daniel. Bienvenid@ a mi Github Profiles👋</h2>
-<h4 align="center">Desarrollador en formación apasionado por la tecnología</h4>
-
+<h2 align="center">¡Hola! Soy Daniel 👋</h2>
+<h4 align="center">Desarrollador en formación — apasionado por crear, aprender y mejorar</h4>
 
 ---
 
 ### 💡 Sobre mí
 
-- 🎓 Soy **Ingeniero en Informática**
-- 🚀 Me estoy especializando en **Flutter**, **Clean Architecture**, y **Backend con Python/FastAPI**
-- 🧠 Aprendiz de por vida, siempre buscando mejorar mis habilidades técnicas y blandas
-- 💬 Pregúntame sobre: desarrollo web, móvil, bases de datos, terminal Linux
+- 🎓 Ingeniero en Informática  
+- 🚀 Especializándome en **Flutter**, **Clean Architecture** y **Backend con Python/FastAPI**  
+- 📱 Me encanta crear aplicaciones móviles limpias, escalables y con buenas prácticas  
+- 🧠 Aprendiz constante: disfruto mejorar mis habilidades técnicas y blandas  
+- 💬 Puedes preguntarme sobre: desarrollo móvil, backend, bases de datos, Flutter, FastAPI o Linux  
 
 ### 🌎 Idiomas
 
@@ -45,26 +45,58 @@
 
 ### ✨ Proyectos destacados
 
-- 📱 [Mi primeta App en Flutter](https://github.com/DanielCastroPerez/Primera_App_Flutter)
+### 📱 **APP LEARNING FLUTTER**  
+![Estado](https://img.shields.io/badge/estado-Finalizado-brightgreen)
 
-- 🌐 [API widgets](https://github.com/DanielCastroPerez/API_Learning_Flutter)
+App que evolucionó desde mi primera aplicación hecha con tutoriales hasta una versión totalmente refactorizada con **Clean Architecture**, **Provider**, navegación avanzada, manejo de estado y buenas prácticas.
 
-- 🌐 [API Biblioteca](https://github.com/DanielCastroPerez/API_BIBLIOTECA)
+**Evolución del proyecto:**
+- 🟡 **Versión inicial (MVP):** widgets básicos, ejemplos simples, primeros pasos en Flutter 
+- 👉 [Primera App](https://github.com/DanielCastroPerez/Primera_App_Flutter)
+- 🟢 **Versión mejorada:** arquitectura limpia, modularización, estructura profesional, rendimiento optimizado. Conexión con **API Widgets**
+- 👉 [APP LEARNING FLUTTER](https://github.com/DanielCastroPerez/APP_LEARNING_FLUTTER)
 
-### 🚧 Proyecto en proceso
 
-- 🔄 Mejorar y reestructurar  **Mi primeta App en Flutter** aplicando los principios de **Clean Architecture**.
-- ➕ Agregar nuevas funcionalidades como navegación avanzada 🧭, manejo de estado 📊 y temas personalizados 🎨.
-- ⚡ Optimizar el rendimiento y la organización del código para facilitar su escalabilidad 📈 y mantenimiento 🛠️.
+---
 
-- 📱 [APP LEARNING FLUTTER](https://github.com/DanielCastroPerez/APP_LEARNING_FLUTTER)
+### 🌐 **API Widgets**  
+- API creada con FastAPI para practicar rutas, modelos, validaciones y documentación con Swagger.  
+👉 [Ver repositorio](https://github.com/DanielCastroPerez/API_Learning_Flutter)
 
-### 💼 Futuros proyectos
+---
 
-- 🥗 Desarrollar una app para la venta de alimentos enfocada en personas que hacen ejercicio, con recomendaciones personalizadas y seguimiento nutricional.
-- 🧰 Crear una app para el control de almacenamiento e inventario de herramientas, con alertas de stock y categorías por tipo de equipo.
-- 🏗️ Diseñar una app para la gestión de visitas relacionadas con mantenimiento, instalaciones o soporte técnico en sistemas de estacionamiento.
+### 🌐 **API Biblioteca – Versión Mejorada**  
+![Estado](https://img.shields.io/badge/estado-Mejorado-brightgreen)
 
+- Gestión de libros, autores y préstamos usando FastAPI + SQL.  
+- 👉 [Api Basica](https://github.com/DanielCastroPerez/API_BIBLIOTECA)
+  
+- API desarrollada con **FastAPI + Clean Architecture** para gestionar libros mediante operaciones CRUD e integración con MySQL.  
+Diseñada para conectarse con una futura app móvil en Flutter y creada como base sólida para practicar arquitectura limpia, escalabilidad y mantenimiento avanzado.
+- 👉 [Ver API mejorada](https://github.com/DanielCastroPerez/API_Biblioteca_Mejorada)
+
+
+---
+## 🚧 Proyectos en proceso
+
+### 📌 Actualmente trabajando en:
+
+1. **Sistema de inventario y control de herramientas**  
+   - Alertas de stock  
+   - Clasificación por categorías  
+   - Clean Architecture + pruebas unitarias
+
+2. **App Biblioteca (Frontend en Flutter)**  
+   - Conexión directa con **API Biblioteca**  
+   - CRUD completo de libros  
+   - Tests de integración y unitarios
+   - Clean Architecture
+
+3. **Daily Dev Phrases**
+   - Aplicación educativa para desarrolladores enfocada en el aprendizaje de frases comunes usadas en entornos de desarrollo de software
+   - Lecciones estructuradas con frases, ejemplos, preguntas y conversaciones reales
+   - Implementación de Clean Architecture
+   - Pruebas unitarias para models y entities
 
 ---
 
