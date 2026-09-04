@@ -1,11 +1,16 @@
+<div align="center">
+
 # ¡Hola! Soy Daniel Castro Pérez 👋
 ### Java Full Stack Developer Jr. | Backend | APIs REST
 
+</div>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-castro-perez-development"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="castroperezdaniel28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/DanielCastroPerez"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/daniel-castro-perez-development" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:castroperezdaniel28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/DanielCastroPerez" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
 
 ---
 
@@ -62,16 +67,6 @@ Ingeniero en Informática enfocado en el desarrollo **Java Full Stack**. Cuento 
 * **Stack**: Flutter, Dart, Clean Architecture.
 * **Repositorio**: [Ver Código](https://github.com/DanielCastroPerez/APP_LEARNING_FLUTTER)
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielCastroPerez&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCastroPerez&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="45%" />
-</p>
-
----
 
 ## 📫 Contacto
 
