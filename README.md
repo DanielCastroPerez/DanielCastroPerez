@@ -1,131 +1,86 @@
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQzNmkzaXpiY3J2bmx5cGFsMmhqMzFmM2ViYnd6N2F5cnJicXc5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
-</div>
+# ¡Hola! Soy Daniel Castro Pérez 👋
+### Java Full Stack Developer Jr. | Backend | APIs REST
 
-<h2 align="center">¡Hola! Soy Daniel 👋</h2>
-<h4 align="center">Desarrollador en formación — apasionado por crear, aprender y mejorar</h4>
-
----
-
-### 💡 Sobre mí
-
-- 🎓 Ingeniero en Informática  
-- 🚀 Especializándome en **Flutter**, **Clean Architecture** y **Backend con Python/FastAPI**  
-- 📱 Me encanta crear aplicaciones móviles limpias, escalables y con buenas prácticas  
-- 🧠 Aprendiz constante: disfruto mejorar mis habilidades técnicas y blandas  
-- 💬 Puedes preguntarme sobre: desarrollo móvil, backend, bases de datos, Flutter, FastAPI o Linux  
-
-### 🌎 Idiomas
-
-- Inglés: **Intermedio (B1)** – Lectura técnica y documentación sin problema.
----
-
-### 🧰 Tecnologías que uso
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-</div>  
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-castro-perez-development"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="castroperezdaniel28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/DanielCastroPerez"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-### 📫 Contacto
+## 👨‍💻 Sobre Mí
 
-- 📧 Email: castroperezdaniel28@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/daniel-castro-perez-development)  
+Ingeniero en Informática enfocado en el desarrollo **Java Full Stack**. Cuento con experiencia práctica diseñando e implementando **APIs REST, arquitectura limpia (Clean Architecture) y aplicaciones web dinámicas**. 
 
----
-
-### ✨ Proyectos destacados
-
-### 📱 **APP LEARNING FLUTTER**  
-![Estado](https://img.shields.io/badge/estado-Finalizado-brightgreen)
-
-App que evolucionó desde mi primera aplicación hecha con tutoriales hasta una versión totalmente refactorizada con **Clean Architecture**, **Provider**, navegación avanzada, manejo de estado y buenas prácticas.
-
-**Evolución del proyecto:**
-- 🟡 **Versión inicial (MVP):** widgets básicos, ejemplos simples, primeros pasos en Flutter 
-- 👉 [Primera App](https://github.com/DanielCastroPerez/Primera_App_Flutter)
-- 🟢 **Versión mejorada:** arquitectura limpia, modularización, estructura profesional, rendimiento optimizado. Conexión con **API Widgets**
-- 👉 [APP LEARNING FLUTTER](https://github.com/DanielCastroPerez/APP_LEARNING_FLUTTER)
-
+- 🚀 **Especialidad:** Backend con Java y Spring Boot + Frontend Web (JS, HTML/CSS, Bootstrap).
+- ⚙️ **Complementos:** Creación de microservicios/APIs con Python (FastAPI) y desarrollo móvil multiplataforma con Flutter.
+- 🎯 **Metodologías:** Trabajo bajo marco de trabajo **Scrum** y flujos de control de versiones con **Git Flow**.
+- 💬 **Idiomas:** Español (Nativo) | Inglés Intermedio (B1 - Lectura técnica y documentación).
 
 ---
 
-### 🌐 **API Widgets**  
-- API creada con FastAPI para practicar rutas, modelos, validaciones y documentación con Swagger.  
-👉 [Ver repositorio](https://github.com/DanielCastroPerez/API_Learning_Flutter)
+## 🛠️ Stack Tecnológico
+
+**Core - Java Full Stack**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Otras Tecnologías & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Herramientas & Entorno**
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🌐 **API Biblioteca – Versión Mejorada**  
-![Estado](https://img.shields.io/badge/estado-Mejorado-brightgreen)
+## 🚀 Proyectos Destacados
 
-- Gestión de libros, autores y préstamos usando FastAPI + SQL.  
-- 👉 [Api Basica](https://github.com/DanielCastroPerez/API_BIBLIOTECA)
-  
-- API desarrollada con **FastAPI + Clean Architecture** para gestionar libros mediante operaciones CRUD e integración con MySQL.  
-Diseñada para conectarse con una futura app móvil en Flutter y creada como base sólida para practicar arquitectura limpia, escalabilidad y mantenimiento avanzado.
-- 👉 [Ver API mejorada](https://github.com/DanielCastroPerez/API_Biblioteca_Mejorada)
+### 🛍️ [Plataforma E-commerce Full Stack](https://github.com/DanielCastroPerez) *(En Desarrollo)*
+* **Descripción**: Proyecto integrador desarrollado colaborativamente bajo metodología Scrum. Incluye gestión de inventario, flujo de compras e integración frontend-backend.
+* **Stack**: Java, Spring Boot, JavaScript, HTML/CSS, Bootstrap, SQL, Git/GitHub.
 
+### 📚 [API Biblioteca — FastAPI + Clean Architecture](https://github.com/DanielCastroPerez/API_Biblioteca_Mejorada)
+![Estado](https://img.shields.io/badge/Estado-Finalizado-brightgreen?style=flat-square)
+* **Descripción**: API REST para la gestión integral de libros, autores y préstamos. Implementa Clean Architecture y documentación interactiva con Swagger.
+* **Stack**: Python, FastAPI, MySQL, SQL.
+* **Reporitorios**: [Versión Principal](https://github.com/DanielCastroPerez/API_BIBLIOTECA) | [Versión Mejorada](https://github.com/DanielCastroPerez/API_Biblioteca_Mejorada)
 
----
-## 🚧 Proyectos en proceso
-
-### 📌 Actualmente trabajando en:
-
-1. **Sistema de inventario y control de herramientas**  
-   - Alertas de stock  
-   - Clasificación por categorías  
-   - Clean Architecture + pruebas unitarias
-
-2. **App Biblioteca (Frontend en Flutter)**  
-   - Conexión directa con **API Biblioteca**  
-   - CRUD completo de libros  
-   - Tests de integración y unitarios
-   - Clean Architecture
-
-3. **Daily Dev Phrases**
-   - Aplicación educativa para desarrolladores enfocada en el aprendizaje de frases comunes usadas en entornos de desarrollo de software
-   - Lecciones estructuradas con frases, ejemplos, preguntas y conversaciones reales
-   - Implementación de Clean Architecture
-   - Pruebas unitarias para models y entities
+### 📱 [App Learning Flutter](https://github.com/DanielCastroPerez/APP_LEARNING_FLUTTER)
+![Estado](https://img.shields.io/badge/Estado-Finalizado-brightgreen?style=flat-square)
+* **Descripción**: Aplicación móvil estructurada para consumo de APIs REST, navegación avanzada y gestión de estado mediante Provider.
+* **Stack**: Flutter, Dart, Clean Architecture.
+* **Repositorio**: [Ver Código](https://github.com/DanielCastroPerez/APP_LEARNING_FLUTTER)
 
 ---
 
-### 📚 Recursos que me ayudaron a aprender
+## 📊 Estadísticas de GitHub
 
-#### 🐍 Python
-- [Curso: Python desde cero (Pildorasinformaticas)](https://www.youtube.com/watch?v=Z4AOP7-b1RM&list=PLWtYZ2ejMVJnh0KVllw24XklzJ62WNFsj)
-- [Libro: Python para todos (Charles Severance)](https://persoal.citius.usc.es/eva.cernadas/informaticaparacientificos/material/libros/Python%20para%20todos.pdf)
-- [El Libro de Python (Sitio web)](https://ellibrodepython.com/)
-- [Curso: Aprende Python en 1 Video (Fazt Code)](https://www.youtube.com/watch?v=Kp4Mvapo5kc)
-
-#### 🎯 Dart
-- [Curso completo de Dart (Fernando Herrera)](https://www.youtube.com/watch?v=Ud1i5VJ69_g)
-
-#### 💙 Flutter
-- [Documentación oficial de Flutter](https://flutter.dev/)
-- [Flutter en Medium (artículos y guías)](https://medium.com/)
-- [Curso: Flutter desde cero (HolaMundo)](https://www.youtube.com/watch?v=HQ_ytw58tC4&list=LL&index=10&t=200s)
-- [App con Flutter, Provider y Clean Architecture (Fazt Code)](https://www.youtube.com/watch?v=-pWSQYpkkjk&t=1083s)
-- [Flutter avanzado y proyectos prácticos (Víctor Robles)](https://www.youtube.com/watch?v=QJngeHgHA50&list=PLrS57q8gZKG8isTwo9zgmHgDuwTq3UOP6)
-
-#### 🌐 HTML & CSS
-- [Curso completo HTML y CSS (freeCodeCamp)](https://www.youtube.com/watch?v=XqFR2lqBYPs)
-
-#### 💻 JavaScript
-- [Curso práctico de JavaScript desde cero (Fazt Code)](https://www.youtube.com/watch?v=mpIwKBNr7_o&list=PL2Z95CSZ1N4HXvLWg8oL4IpyJx27HafcD)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielCastroPerez&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCastroPerez&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="45%" />
+</p>
 
 ---
 
+## 📫 Contacto
 
-> *"Gracias a Programación ATS por encender la chispa que me motivó a ser desarrollador.*  
-> *Si puedes imaginarlo, puedes programarlo."* – En honor al legado de Programación ATS 💻✨
+* **Correo**: [castroperezdaniel28@gmail.com](mailto:castroperezdaniel28@gmail.com)
+* **LinkedIn**: [daniel-castro-perez-development](https://www.linkedin.com/in/daniel-castro-perez-development)
+* **GitHub**: [@DanielCastroPerez](https://github.com/DanielCastroPerez)
+
+---
+
+<p align="center">
+  <i>"Si lo puedes imaginar, lo puedes programar." — En honor a Programación ATS 💻✨</i>
+</p>
